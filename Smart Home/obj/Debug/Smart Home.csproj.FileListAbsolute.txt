@@ -1,0 +1,33 @@
+C:\Users\souhe\source\repos\Smart Home\obj\Debug\Smart Home.csproj.AssemblyReference.cache
+C:\Users\souhe\source\repos\Smart Home\obj\Debug\Smart Home.csproj.SuggestedBindingRedirects.cache
+C:\Users\souhe\source\repos\Smart Home\obj\Debug\Smart Home.csproj.CoreCompileInputs.cache
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\Smart Home.exe.config
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\Smart Home.exe
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\Smart Home.pdb
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\Google.Protobuf.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\Iremoting.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\MySql.Data.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\System.Buffers.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\System.Memory.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\ZstdNet.dll
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\Iremoting.pdb
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\Google.Protobuf.pdb
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\Google.Protobuf.xml
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\MySql.Data.xml
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\System.Buffers.xml
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\System.Memory.xml
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\souhe\source\repos\Smart Home\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\souhe\source\repos\Smart Home\obj\Debug\Smart Home.csproj.CopyComplete
+C:\Users\souhe\source\repos\Smart Home\obj\Debug\Smart Home.exe
+C:\Users\souhe\source\repos\Smart Home\obj\Debug\Smart Home.pdb
