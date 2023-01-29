@@ -1,6 +1,0 @@
-C:\Users\souhe\source\repos\Iremoting\obj\Debug\Iremoting.csproj.AssemblyReference.cache
-C:\Users\souhe\source\repos\Iremoting\obj\Debug\Iremoting.csproj.CoreCompileInputs.cache
-C:\Users\souhe\source\repos\Iremoting\bin\Debug\Iremoting.dll
-C:\Users\souhe\source\repos\Iremoting\bin\Debug\Iremoting.pdb
-C:\Users\souhe\source\repos\Iremoting\obj\Debug\Iremoting.dll
-C:\Users\souhe\source\repos\Iremoting\obj\Debug\Iremoting.pdb
